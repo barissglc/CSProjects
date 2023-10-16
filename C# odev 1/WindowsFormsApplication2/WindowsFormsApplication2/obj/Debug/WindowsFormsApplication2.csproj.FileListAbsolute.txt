@@ -1,0 +1,15 @@
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\Baris\OneDrive\Masaüstü\C# odev 1\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
